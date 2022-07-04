@@ -7,10 +7,14 @@
   background-color: #e9967a;
 }
 
+#warna{
+  background : #dc3545;
+}
+
 /* #Contact  {
   background-color: #e9967a;
-  /* color : white; */
-} */
+  color : white;
+}  */
 
 section {
   padding-top: 5rem;
